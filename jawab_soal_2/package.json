@@ -1,0 +1,11 @@
+{
+  "name": "jawab_soal_2",
+  "version": "1.0.0",
+  "description": "Menjawab soal nomor dua",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Marchel Darma Wijaya",
+  "license": "ISC"
+}
