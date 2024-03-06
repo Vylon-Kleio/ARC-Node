@@ -1,0 +1,21 @@
+Axios adalah salah satu library populer node.js
+Axios merupakan promise-based HTTP Client yang dapat menerima respons dan mengirim asynchronous HTTP requests
+
+Beberapa fitur penting library Axios:
+- Support Node.js dan browser modern
+- Membuat HTTP request dari Node.js
+- Otomatisasi JSON data transformation
+- Promise-based API
+- Intercept request dan response
+- Cancel request
+- Timeouts
+- Error handling dan response validation
+
+Axios memungkinkan kita untuk melakukan berbagai macam HTTP request seperti GET, POST, PUT, DELETE
+Axios juga dapat mengirim request headers, query parameters, dan request payloads 
+Axios dapat digunakan di frontend dan juga backend
+
+Untuk menginstall Axios dapat menggunakan
+npm install axios
+
+Website Axios: https://axios-http.com/
